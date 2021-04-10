@@ -52,9 +52,9 @@ function filterByQuery(query, animalsArray) {
     res.json(results);
   });
 
-app.listen(PORT, () => {
-    console.log(`API server now on ${PORT}`);
-});
+  app.listen(PORT, () => {
+    console.log(`API server now on port ${PORT}!`);
+  });
 
 
 // app.get('/api/animals', (req, res) => {
