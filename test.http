@@ -1,0 +1,15 @@
+GET http://localhost:3001/api/animals HTTP/1.1
+Content-Type: application/json
+###
+POST http://localhost:3001/api/animals HTTP/1.1
+Content-Type: application/json
+
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "11"
+    }
