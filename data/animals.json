@@ -135,6 +135,24 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "AEWGAEW",
+      "species": "AWRGARE",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "AEWGAEW",
+      "species": "AWRGARE",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "15"
     }
   ]
 }
